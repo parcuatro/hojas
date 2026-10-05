@@ -8,7 +8,7 @@ def main():
     
     data = []
     
-    with open(csv_file, mode='r', encoding='utf-8') as f:
+    with open(csv_file, mode='r', encoding='utf-8-sig') as f:
         # The CSV is separated by semicolons and has no headers
         reader = csv.reader(f, delimiter=';')
         for row in reader:
