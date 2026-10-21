@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Portal HDS — hojas de seguridad de fragancias</title>
+  <rect width="64" height="64" rx="14" fill="#4F46E5"/>
+  <path d="M19 10h19l11 11v29a4 4 0 0 1-4 4H19a4 4 0 0 1-4-4V14a4 4 0 0 1 4-4Z" fill="#fff"/>
+  <path d="M38 10v9a2 2 0 0 0 2 2h9Z" fill="#C7D2FE"/>
+  <path d="M32 25c-3 5-9 11-9 16a9 9 0 0 0 18 0c0-5-6-11-9-16Z" fill="#4F46E5"/>
+</svg>
