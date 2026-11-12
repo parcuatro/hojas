@@ -90,6 +90,11 @@
         "archivo": "pdfs/G6420244.pdf"
     },
     {
+        "codigo": "I0163318",
+        "nombre": "Black Cherry Merlot",
+        "archivo": "pdfs/I0163318.pdf"
+    },
+    {
         "codigo": "G6409044",
         "nombre": "Black Tea Fig",
         "archivo": "pdfs/G6409044.pdf"
@@ -300,6 +305,11 @@
         "archivo": "pdfs/CC157718.pdf"
     },
     {
+        "codigo": "G4572244",
+        "nombre": "Cypress Ball",
+        "archivo": "pdfs/G4572244.pdf"
+    },
+    {
         "codigo": "G5412544",
         "nombre": "Cítricos & Albahaca",
         "archivo": "pdfs/G5412544.pdf"
@@ -323,6 +333,11 @@
         "codigo": "AC447918",
         "nombre": "Egg Nog",
         "archivo": "pdfs/AC447918.pdf"
+    },
+    {
+        "codigo": "G3461444",
+        "nombre": "Elegance Peony & Violet Air",
+        "archivo": "pdfs/G3461444.pdf"
     },
     {
         "codigo": "G6941944",
@@ -465,6 +480,11 @@
         "archivo": "pdfs/G7674544.pdf"
     },
     {
+        "codigo": "I1139118",
+        "nombre": "Hojas de higo",
+        "archivo": "pdfs/I1139118.pdf"
+    },
+    {
         "codigo": "CC283418",
         "nombre": "Holiday",
         "archivo": "pdfs/CC283418.pdf"
@@ -473,6 +493,11 @@
         "codigo": "CC408818",
         "nombre": "Honey Suckley Jazmin AQ",
         "archivo": "pdfs/CC408818.pdf"
+    },
+    {
+        "codigo": "G9412644",
+        "nombre": "Hotel SH",
+        "archivo": "pdfs/G9412644.pdf"
     },
     {
         "codigo": "CC977618",
@@ -650,6 +675,11 @@
         "archivo": "pdfs/CC419218.pdf"
     },
     {
+        "codigo": "G8940444",
+        "nombre": "Magic Rainbow Air",
+        "archivo": "pdfs/G8940444.pdf"
+    },
+    {
         "codigo": "CC339518",
         "nombre": "Mandarin Zeste",
         "archivo": "pdfs/CC339518.pdf"
@@ -725,6 +755,11 @@
         "archivo": "pdfs/AC677918.pdf"
     },
     {
+        "codigo": "CC787618",
+        "nombre": "Meridiano",
+        "archivo": "pdfs/CC787618.pdf"
+    },
+    {
         "codigo": "CC468518",
         "nombre": "Milk Chocolate Q",
         "archivo": "pdfs/CC468518.pdf"
@@ -733,6 +768,11 @@
         "codigo": "CC763418",
         "nombre": "Mint Energy",
         "archivo": "pdfs/CC763418.pdf"
+    },
+    {
+        "codigo": "CC354118",
+        "nombre": "MNG",
+        "archivo": "pdfs/CC354118.pdf"
     },
     {
         "codigo": "AC499218",
@@ -1030,9 +1070,24 @@
         "archivo": "pdfs/Z6418318.pdf"
     },
     {
+        "codigo": "G2335044",
+        "nombre": "Sweet Cranberry Rose C400",
+        "archivo": "pdfs/G2335044.pdf"
+    },
+    {
+        "codigo": "C0870718",
+        "nombre": "Sweet Lemon Buttercup AQ550 2017",
+        "archivo": "pdfs/C0870718.pdf"
+    },
+    {
         "codigo": "C9751218",
         "nombre": "Tahiti AQ550 2017",
         "archivo": "pdfs/C9751218.pdf"
+    },
+    {
+        "codigo": "C2002118",
+        "nombre": "Teakwood AQ550 2017",
+        "archivo": "pdfs/C2002118.pdf"
     },
     {
         "codigo": "G4179644",
@@ -1098,6 +1153,11 @@
         "codigo": "T1316818",
         "nombre": "Vainilla Mint",
         "archivo": "pdfs/T1316818.pdf"
+    },
+    {
+        "codigo": "P9860718",
+        "nombre": "Velvet Peony Goody",
+        "archivo": "pdfs/P9860718.pdf"
     },
     {
         "codigo": "CC856518",
