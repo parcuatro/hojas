@@ -17,11 +17,16 @@ def main():
             codigo = row[0].strip()
             nombre = row[1].strip()
             
+            archivo = f"pdfs/{codigo}.pdf"
+            if not os.path.isfile(archivo):
+                print(f"Warning: {archivo} not found for '{nombre}' ({codigo}), skipping.")
+                continue
+            
             # Create the dictionary
             item = {
                 "codigo": codigo,
                 "nombre": nombre,
-                "archivo": f"pdfs/{nombre}.pdf"
+                "archivo": archivo
             }
             data.append(item)
             
